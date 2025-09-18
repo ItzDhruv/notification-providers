@@ -1,0 +1,8 @@
+.env
+*.log
+logs/
+*.tgz
+*.json
+*.html
+test/
+node_modules/
